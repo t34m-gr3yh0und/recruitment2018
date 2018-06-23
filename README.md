@@ -1,4 +1,4 @@
-
+```
 
                                                 _____  _____                     
   ____   ______ ____   ____               _____/ ____\/ ____\______ ____   ____  
@@ -20,17 +20,30 @@ We are NTU student initiated interest group that is under the care of SCSE Compu
 
         Note: If you want some hints, you can also drop us an email 
               or facebook message us @ https://www.facebook.com/ntu.offsec/
+```
 
 ------------------------------------------------------------------------------------
-Challenges
+## Challenges
 
-1. Reverse Engineering
+### Reverse Engineering
 
-2. Binary
+1.
+2. 
 
-3. Cryptography
+### Binary
 
-4. Misc
+1.
+2.
+
+###  Cryptography
+
+1.
+2.
+
+###  Misc
+
+1.
+2.
 
 -------------------------------------------------------------------------------------
 
