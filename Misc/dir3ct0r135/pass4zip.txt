@@ -1,1 +1,0 @@
-Password : file name itself without the .zip
