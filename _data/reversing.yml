@@ -1,0 +1,7 @@
+- name: s1mp13-R3
+  description: Have you played one of <a href="{{site.baseurl}}/assets/img/cradlestring.jpg">these?</a>
+  files:
+    - displaytext: File
+      path: /challenges/Reversing/s1mp13-R3/main
+
+

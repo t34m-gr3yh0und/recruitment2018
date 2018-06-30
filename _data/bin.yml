@@ -1,0 +1,27 @@
+- name: authme
+  description: Sometimes, I love a lot of cola. But things can get a little <a href="{{site.baseurl}}/assets/img/toomuchcola.jpg">messy</a>. 
+  files:
+    - displaytext: File
+      path: /challenges/Bin/authme
+
+- name: authme2
+  description: What I did in part 1 doesn't work anymore :( 
+  files:
+    - displaytext: File
+      path: /challenges/Bin/authme2
+
+- name: GoWhereNext
+  description: Wherever eip will <a href="https://www.youtube.com/watch?v=iAP9AF6DCu4">go</a>
+  files:
+    - displaytext: File
+      path: /challenges/Bin/GoWhereNext
+
+- name: sl33py
+  description: I have no idea how to <a href="https://www.youtube.com/watch?v=k4V3Mo61fJM">fix</a> this mess...
+  files:
+    - displaytext: File
+      path: /challenges/Bin/sl33py
+
+
+
+

@@ -1,0 +1,15 @@
+<div class="card-body container row category" >
+
+{% for challenge in include.challenges %}
+		<div class="card col-md-3 box">
+		  <div class="card-body">
+		    <h5 class="card-title">{{ challenge.name }}</h5>
+		    <p class="card-text">{{ challenge.description }}</p>
+			{% for f in challenge.files %}
+			<a href="{{site.baseurl}}{{ f.path }}" class="card-link">{{ f.displaytext }}</a> <br>
+			{% endfor %}
+		  </div>
+		</div>
+{% endfor %}
+
+</div>

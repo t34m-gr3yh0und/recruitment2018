@@ -1,0 +1,37 @@
+- name: Cl4ss1c
+  description: Listen to some <a href="https://www.youtube.com/watch?v=hKgl5-lkT8U">music</a> while you are at it.
+  files:
+    - displaytext: File
+      path: /challenges/Crypto/Cl4ss1c
+
+- name: Encoding1
+  description: All about the <a href="https://www.youtube.com/watch?v=7PCkvCPvDXk">baseeee~</a>
+  files:
+    - displaytext: File
+      path: /challenges/Crypto/Encoding1
+
+- name: Encoding2
+  description: I love ABCD
+  files:
+    - displaytext: File
+      path: /challenges/Crypto/Encoding2
+
+- name: C4lcul4t3_RSA
+  description: How to decrypt RSA???
+  files:
+    - displaytext: File
+      path: /challenges/Crypto/C4lcul4t3_RSA/C4lcul4t3_RSA
+
+    - displaytext: Hint
+      path: /challenges/Crypto/C4lcul4t3_RSA/hint.txt
+
+- name: M0dulo_Inv3rse_RSA
+  description: e * d mod (p-1)(q-1) = 1
+  files:
+    - displaytext: File
+      path: /challenges/Crypto/M0dulo_Inv3rse_RSA
+
+
+
+
+
