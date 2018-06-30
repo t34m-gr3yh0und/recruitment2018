@@ -1,8 +1,8 @@
 # Site settings
 title: SCSE-OFFSEC Recruitment 2018
 description: NTU Inititated Cyber Security Interest Group
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/recruitment2018" # the subpath of your site, e.g. /blog
+url: "https://ntu-offsec.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: SCSE-offsec
