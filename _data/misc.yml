@@ -1,9 +1,3 @@
-- name: d0_yoU_s33_us
-  description: 'A' lot of newlines
-  files:
-    - displaytext: File
-      path: /challenges/Misc/d0_yoU_s33_us
-
 - name: dir3ct0r135
   description: Finding me maybe a little tricky XD
   files:
@@ -30,4 +24,8 @@
     - displaytext: File
       path: /challenges/Misc/g1mm3Fl4g/g1mm3Fl4g.zip
 
-
+- name: d0_yoU_s33_us
+  description: <b>A</b> lot of newlines
+  files:
+    - displaytext: File
+      path: /challenges/Misc/d0_yoU_s33_us
