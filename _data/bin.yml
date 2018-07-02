@@ -1,5 +1,5 @@
 - name: authme
-  description: Sometimes, I love a lot of cola. But things can get a little <a href="{{site.baseurl}}/assets/img/toomuchcola.jpg">messy</a>. 
+  description: Sometimes, I love a lot of cola. But things can get a little <a href="assets/img/toomuchcola.jpg" >messy</a>. 
   files:
     - displaytext: File
       path: /challenges/Bin/authme
