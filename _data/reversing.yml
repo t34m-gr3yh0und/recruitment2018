@@ -4,4 +4,9 @@
     - displaytext: File
       path: /challenges/Reversing/s1mp13-R3/main
 
+- name: sillyme
+  description: Mistakes of pointers ... </a>
+  files:
+    - displaytext: File
+      path: /challenges/Reversing/sillyme/sillyme.zip
 
