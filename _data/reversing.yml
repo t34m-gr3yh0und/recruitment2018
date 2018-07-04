@@ -17,4 +17,8 @@
     - displaytext: File
       path: /challenges/Reversing/decompyleMe/decompyleMe.zip
 
-
+- name: m4nYCh3cK5
+  description: Check this check that hoooo myyy </a>
+  files:
+    - displaytext: File
+      path: /challenges/Reversing/m4nYCh3cK5/m4nYCh3cK5.zip
