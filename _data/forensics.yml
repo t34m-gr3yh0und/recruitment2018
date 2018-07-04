@@ -1,0 +1,5 @@
+- name: DaTa_H1DinG_f41Ls
+  description: We discovered a suspicious file that may contain evidence of an Espionage incident. Get the proof!
+  files:
+    - displaytext: File
+      path: /challenges/Forensics/DaTa_H1DinG_f41Ls/pikachu-cute.jpg

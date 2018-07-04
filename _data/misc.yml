@@ -24,4 +24,8 @@
     - displaytext: File
       path: /challenges/Misc/g1mm3Fl4g/g1mm3Fl4g.zip
 
-
+- name: d0_yoU_s33_us
+  description: <b>A</b> lot of newlines
+  files:
+    - displaytext: File
+      path: /challenges/Misc/d0_yoU_s33_us
