@@ -10,3 +10,11 @@
     - displaytext: File
       path: /challenges/Reversing/sillyme/sillyme.zip
 
+
+- name: decompyleMePlease
+  description: Please help me generate the flag </a>
+  files:
+    - displaytext: File
+      path: /challenges/Reversing/decompyleMe/decompyleMe.zip
+
+
