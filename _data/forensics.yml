@@ -3,3 +3,9 @@
   files:
     - displaytext: File
       path: /challenges/Forensics/DaTa_H1DinG_f41Ls/pikachu-cute.jpg
+
+- name: BomB3rM41l
+  description: Suspect was arrested for planing a bomb and we got hold of a file which is rumoured to have a deactivator in it. Please deactivate the bomb!
+  files:
+    - displaytext: File
+      path: /challenges/Forensics/B0mB3rM41l/B0mB3rM41l.zip
