@@ -22,3 +22,11 @@
   files:
     - displaytext: File
       path: /challenges/Reversing/m4nYCh3cK5/m4nYCh3cK5.zip
+
+- name: M47HFU
+  description: Android App To learn addition and subtraction and learn a flag
+  files:
+    - displaytext: APK
+      path: /challenges/Reversing/M47hFU/M47HFU.apk
+    - displaytext: readme
+      path: /challenges/Reversing/M47HFU/README.md
