@@ -15,7 +15,7 @@
   description: Please help me generate the flag </a>
   files:
     - displaytext: File
-      path: /challenges/Reversing/decompyleMe/decompyleMe.zip
+      path: /challenges/Reversing/decompyleMe/prob.pyc
 
 - name: m4nYCh3cK5
   description: Check this check that hoooo myyy </a>
