@@ -27,6 +27,6 @@
   description: Android App To learn addition and subtraction and learn a flag
   files:
     - displaytext: APK
-      path: /challenges/Reversing/M47hFU/M47HFU.apk
+      path: /challenges/Reversing/M47HFU/M47HFU.apk
     - displaytext: readme
       path: /challenges/Reversing/M47HFU/README.md
