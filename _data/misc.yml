@@ -4,7 +4,7 @@
     - displaytext: File
       path: /challenges/Misc/dir3ct0r135/dir3ct0r135.zip
     - displaytext: pass
-      path: dir3ct0r135/pass4zip.txt
+      path: /challenges/Misc/dir3ct0r135/pass4zip.txt
 
 - name: explosion
   description: Please put me back together again :O
